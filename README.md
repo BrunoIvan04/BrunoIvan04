@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Bruno
 
-<!--
-**BrunoIvan04/BrunoIvan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software en Guadalajara, México. Tengo un año de experiencia
+en producción con **Symfony/PHP** y **Next.js/React** construyendo el backend
+y el e-commerce de una plataforma B2B. Ahora estoy ampliando mi base técnica:
+fundamentos de sistemas, arquitectura y buenas prácticas de ingeniería.
 
-Here are some ideas to get you started:
+## Experiencia previa
+- Integraciones de catálogo multi-proveedor (API REST, CSV, Excel, scraping)
+  hacia un modelo de producto unificado
+- Sincronización con Zoho CRM y flujos de pago con OpenPay
+- Pruebas automatizadas con PHPUnit y análisis estático con Psalm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estoy aprendiendo
+- (aquí solo lo que realmente estés estudiando o construyendo esta semana)
+
+## Stack con el que he trabajado
+PHP · Symfony · Doctrine · MySQL · TypeScript · Next.js · React · Vue/Nuxt ·
+PHPUnit · Docker · Git
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/bruno-santos-7114a8267) · brunoivansts@gmail.com

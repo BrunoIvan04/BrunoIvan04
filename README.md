@@ -11,8 +11,7 @@ fundamentos de sistemas, arquitectura y buenas prácticas de ingeniería.
 - Sincronización con Zoho CRM y flujos de pago con OpenPay
 - Pruebas automatizadas con PHPUnit y análisis estático con Psalm
 
-## Estoy aprendiendo
-- (aquí solo lo que realmente estés estudiando o construyendo esta semana)
+## Estoy abierto a aprender y trabajar con en cualquier area requqerida
 
 ## Stack con el que he trabajado
 PHP · Symfony · Doctrine · MySQL · TypeScript · Next.js · React · Vue/Nuxt ·

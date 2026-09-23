@@ -10,8 +10,7 @@ fundamentos de sistemas, arquitectura y buenas prácticas de ingeniería.
   hacia un modelo de producto unificado
 - Sincronización con Zoho CRM y flujos de pago con OpenPay
 - Pruebas automatizadas con PHPUnit y análisis estático con Psalm
-
-## Estoy abierto a aprender y trabajar con en cualquier area requqerida
+- Estoy abierto a aprender y trabajar con en cualquier area requerida
 
 ## Stack con el que he trabajado
 PHP · Symfony · Doctrine · MySQL · TypeScript · Next.js · React · Vue/Nuxt ·
